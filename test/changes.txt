@@ -1,0 +1,31 @@
+26/7-2013 Markus fixed simplei/local-images.js, all 800pixel large pics can now be displayed.
+27/7-2013 Amir updated default.csss file and all html files, added new English text to the page about church.
+29/7-2013 Amir added two new front pages in Danish,Arabic. added new css file (default_arabic), for handling the arabic pages. added two new images for front pages.
+29/7-2013 Amir added keywords to the index pages
+29/7-2013 Amir added mor translation in index pages
+29/7-2013 Amir added translation to about curch in Danish, English and Arabic. created folder (doc) and added documents letated to the church
+31/7-2013 Amir translation to the events html and updated css files.
+1/08-2013 Amir added javascript arround emails in all pages. javascript was created by Markus. added new text for all events in church
+1/08-2013 Amir translated children.html and Uploaded 3 new files (Children_AR.html,Children_EN.html,Children_DA.html)
+6/08-2013 Amir translated the Liturgies.html and uploaded 3 new files (Liturgies_AR, Liturgies_DA, Liturgies_EN). updated css files
+9/08-2013 Amir translated the last page "Gallery.html", and updated css files as well as the other html files.
+10/08-2013 Amir updated HTML files with new links to coptic churcs in EU
+14/08-2013 Amir updated index and events html fils
+16/08-2013 Amir added sitemap xml file to production.
+21/08-2013 Amir added new Album about the conferance in Jan 2013, updated html files according.
+21/08-2013 Markus fixed Album, there was mismatch between "jpg" and "JPG" causing pics not show.
+21/08-2013 Amir added 3 translations for Vedtaegt_AR.pdf, Vedtaegt_DA.pdf,  Vedtaegt_EN.pdf to About church html file
+21/08-2013 Amir added Coptic Liturgy_Arabic_Swedish.ppt in Liturgy pages
+30/08-2013 Amir updated index and events html files, added link to The Ethiopian Orthodox Church in Denmark
+31/08-2013 Amir added new document to index html (130829_letter_of_solidarity_EGYPT.pdf)
+31/08-2013 Amir added new link to CTV in index files
+31/08-2013 Amir updated all titles in All html files
+5/09-2013 Amir added new html file "003_events_conference_Vienna_Easter_2013.html" and updated index, events and Gallery html files, uploaded new album for the coptic conference Vienna Easter 2013
+6/09-2013 Amir updated Children.html files
+8/09-2013 Amir updated the index and events html files with Sunday school carnaval 2013
+9/09-2013 Amir updated the index and events html files, added link to a report about the conference in (CTV) Coptic Orthodox Church TV channel.
+10/09-2013 Amir updated all arabic html files and default_arabic.css
+12/09-2013 Amir updated books html files
+23/09-2013 Amir added a new album for the church work day 21 sep 2013, added the adress for the church in copenhagen
+15/10-2013 Amir added a new album for the church Sunday school carnaval 13th October 2013, added new event for the Christmas Bazaar from 9th November - 15th December 2013
+17/10-2013 Amir Added a new link in index to the Coptic Mission In Africa 
